@@ -14,10 +14,12 @@ Kindly follow the below steps to run this program
 10) open the browser page to run
 11) input should be as follows
 
-URL: https://www.goauto.ca/ 
-Section: inventory 
-Page Number: 1 or 2
-press process button
+a) URL: https://www.goauto.ca/ 
+b) Section: inventory 
+c) Page Number: 1 or 2
+d) press process button
+
+
 12) please use below link to the model 👍 https://goauto-web-scrap-app.herokuapp.com/, repeat step 11
 
 
